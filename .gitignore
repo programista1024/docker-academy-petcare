@@ -1,0 +1,11 @@
+# Docker & IDE
+.env
+*.log
+*.pid
+node_modules/
+vendor/
+__pycache__/
+*.DS_Store
+*.vscode/
+.idea/
+docker-compose.override.yml
