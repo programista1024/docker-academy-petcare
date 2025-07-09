@@ -1,14 +1,7 @@
-# Etap 00 – Prosta aplikacja PHP + Apache
+# Etap 00 – PHP + Apache (Docker)
 
-## 🎯 Cel
+Ten etap Akademii Dockera uczy jak stworzyć prosty kontener PHP z serwerem Apache.
 
-Zrozumienie podstaw Dockera. Uruchomienie własnego kontenera z serwerem Apache i prostą stroną w PHP.
-
-## ⚙️ Uruchomienie
-
-1. Skopiuj `.env.example` jako `.env`
-2. Uruchom:
-   ```bash
-   docker-compose up --build
-   ```
-3. Przejdź do: [http://localhost:8080](http://localhost:8080)
+Instrukcje dla systemów:
+- 🐧 [Linux](instructions/linux.md)
+- 🪟 [Windows](instructions/windows.md)
